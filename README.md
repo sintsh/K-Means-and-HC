@@ -12,8 +12,11 @@ this clustering or grouping to take place, clustering algorithms play a signific
 1.  Data Collection and Exploration
 2.  Data Preparation and Preprocessing
 3.  Implementation of Clustering Algorithms
+
 	3.1. K-Means Clustering
+	
 	3.2. Hierarchical Clustering
+	
 4.  Model Building
 5.  Results
 
